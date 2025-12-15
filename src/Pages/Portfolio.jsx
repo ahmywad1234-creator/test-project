@@ -6,9 +6,9 @@ export default function Portfolio() {
       <head>
         <title>protfolio</title>
       </head>
-      <section className='vh-100 position-relative'>
-        <div className="container position-absolute top-50 start-50 translate-middle text-center">
-          <h2 className="text-center fw-bold fs-1">portfolio component</h2>
+      <section className=' p-5'>
+        <div className="container">
+          <h2 className="text-center fw-bold fs-1 mt-5 pt-5">portfolio component</h2>
           <div className="d-flex justify-content-center align-items-center my-4">
             <div className="bg-dark" style={{ width: 80, height: 4 }} />
             <i className="fa-solid fa-star mx-3" />
